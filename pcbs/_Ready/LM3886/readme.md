@@ -1,6 +1,6 @@
 <img src="screenshot.png" width="50%">
 
-## Monoblocks
+## LM3886
 
 The heart of the amplifier is this microprocessor board based on the ESP32 WROOM 32 IC.
 

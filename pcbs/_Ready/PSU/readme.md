@@ -1,12 +1,12 @@
 <img src="screenshot.png" width="50%">
 
-# Main Amplifier Channel Power Supply
+## Main Amplifier Channel Power Supply
 
-## Version History
+### Version History
 
 - 1.0: Initial Release
 
-## Speciality Components
+### Speciality Components
 
 * 30x50mm 15000uF 50V capacitors
 * 5x20mm fuse holders
