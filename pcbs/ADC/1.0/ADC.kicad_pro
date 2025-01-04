@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.25
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -458,7 +458,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ADC.kicad_pro",
+    "filename": "adc.kicad_pro",
     "version": 1
   },
   "net_settings": {

@@ -201,7 +201,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a9939f7c-73e2-4884-bbba-d73a8c7726b4")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -438,7 +438,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/9ea1b4ee-91b5-4219-8870-1f14add4e58b")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -558,7 +558,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8bbb5b43-0ae3-4120-a8ed-7e138e696d73")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.06 4.91)
@@ -918,7 +918,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/d444e441-ef59-4e1e-aba7-66b10bc6a95c")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -1052,7 +1052,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e38f118e-3cc1-4111-a460-65c138213866")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.177064 1.71)
@@ -1277,7 +1277,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/cd2f50e1-6e12-48e0-a8cf-e5bb06436440")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.62 -3.12)
@@ -1512,7 +1512,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/15c7a19b-6fc3-4977-9c49-0073f6f397ac")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.06 4.91)
@@ -1871,7 +1871,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1db6a868-8a4d-46e6-a941-2265416a05bc")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -2085,7 +2085,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/aa39dfa2-0a9e-4608-b7b3-d575a77bbff6")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -2310,7 +2310,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b5925ebf-ac9e-45d5-a95a-ea4ad6ffc8a6")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.62 -3.12)
@@ -2559,7 +2559,7 @@
 		(property ki_fp_filters "D*Bridge* D*Rectifier*")
 		(path "/5dc91b31-fb7d-4bc4-83ba-858519897217")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.16 -5.36)
@@ -2844,7 +2844,7 @@
 		(property ki_fp_filters "D*Bridge* D*Rectifier*")
 		(path "/01e9e8bf-892a-4ac9-99e8-883f6c251439")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.16 -5.36)
@@ -3116,7 +3116,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/69036599-8969-43ac-ba4f-3d452619c487")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -3353,7 +3353,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/4bce8c15-13bf-4b48-b31e-619c91becc27")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -3473,7 +3473,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9354e77b-287e-4727-a790-6b0c057ab2c2")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.86 -0.3)
@@ -3856,7 +3856,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ecc32fc5-421b-41fa-ba6b-baff55c40eef")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.177064 1.71)
@@ -4071,7 +4071,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/29991308-45f4-406d-bcb7-4b40c9493060")
 		(sheetname "Root")
-		(sheetfile "Rectify.kicad_sch")
+		(sheetfile "rectify.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)

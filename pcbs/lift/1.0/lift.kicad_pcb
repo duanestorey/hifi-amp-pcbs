@@ -193,7 +193,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/0ac15f26-6b0d-4162-ba77-b4a604cdc0be")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -315,7 +315,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/574d7be5-1eb7-4d14-8330-e6b7b2c436f9")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.05 4.8)
@@ -990,7 +990,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/01c48d5f-ae34-4f91-8f0d-820762588579")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 21.32 -3.12)
@@ -1267,7 +1267,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/975a4e5f-bfda-465e-b9d2-2e1fa175177f")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.05 4.8)
@@ -1927,7 +1927,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f6bd349f-ed52-4cc4-9ca4-c9d979778e8b")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.06 4.91)
@@ -2287,7 +2287,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/5adb0803-f98c-473d-8368-9ed19ed0e30f")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -2498,7 +2498,7 @@
 		)
 		(path "/0562d29d-ac4b-4de5-a22f-6aa10cfabf3d")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.5 2.4)
@@ -2834,7 +2834,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0ccbf3f4-b401-40f1-85a8-9ff24b57640c")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.62 -2.62)
@@ -3071,7 +3071,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/f1226194-7366-42ed-bb33-72f70622a958")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -3193,7 +3193,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/09210d71-890e-4e18-9138-720fa7c1842e")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -3312,7 +3312,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b544c9ef-14fa-4b46-a15c-52089e9b29b4")
 		(sheetname "Root")
-		(sheetfile "Lift.kicad_sch")
+		(sheetfile "lift.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.82 -3.81)
