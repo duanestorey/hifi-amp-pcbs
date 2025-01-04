@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "DualPSU.kicad_prl",
+    "filename": "input-sel.kicad_prl",
     "version": 3
   },
   "project": {

@@ -215,6 +215,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false,
@@ -450,7 +454,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DSP.kicad_pro",
+    "filename": "dsp.kicad_pro",
     "version": 1
   },
   "net_settings": {

@@ -184,9 +184,7 @@
       ],
       "track_widths": [
         0.0,
-        0.2,
-        0.4,
-        0.76
+        0.3
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -453,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FTDI.kicad_pro",
+    "filename": "ftdi.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -470,8 +468,8 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.5,
+        "track_width": 0.3,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       }

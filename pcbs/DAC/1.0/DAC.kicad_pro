@@ -185,6 +185,7 @@
       "track_widths": [
         0.0,
         0.3,
+        0.4,
         0.5,
         0.8
       ],
@@ -457,7 +458,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DAC.kicad_pro",
+    "filename": "dac.kicad_pro",
     "version": 1
   },
   "net_settings": {
