@@ -1,16 +1,16 @@
 <img src="screenshot.png?v=2" width="50%">
 
-# Microprocessor Board
+## Microprocessor Board
 
 The heart of the amplifier is this microprocessor board based on the ESP32 WROOM 32 IC. Now supports a HAT.
 
-## Version History
+### Version History
 
 - 1.0: Initial Release
 - 1.1: Addressed issue with ESP32 programming transistors
 - 1.2: Added missing pull-down resistor for relay/softstart 
 
-## Speciality Components
+### Speciality Components
 
 * ESP32 WROOM 32
 * FT232RL USB to UART converter
