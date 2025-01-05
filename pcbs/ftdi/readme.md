@@ -1,18 +1,16 @@
 <img src="screenshot.png" width="50%">
 
-## Microprocessor Board
+## FTDI communcations board
 
-The heart of the amplifier is this microprocessor board based on the ESP32 WROOM 32 IC.
+This board converts a USB connection into a UART compatible one for use in programming and debugging the main ESP32 microprocessor board.  It has a 4-pin USB
+connector to go to the chassis to connect an external USB cord.
 
 ### Version History
 
 - 1.0: Initial Release
-- 1.1: Addressed issue with ESP32 programming transistors
-- 1.2: Added missing pull-down resistor for relay/softstart 
 
 ### Speciality Components
 
-* ESP32 WROOM 32
-* FT232RL USB to UART converter
-* TMP100 temperature sensor
+* FT232RL USB to UART
+* ADUM3160 USB isolator
 
