@@ -1,7 +1,7 @@
 ## Hi-Fidelity Amplifier With Active-Crossovers and Room Correction
 
 These are the PCBs represented a two-year passive effort to create, from scratch, an entire hi-fi amplifier with build-in DSP support for active crossovers and room 
-correction.
+correction.  You can [explore the individual PCBs for this project here](/pcbs).
 
 ### Overview
 
