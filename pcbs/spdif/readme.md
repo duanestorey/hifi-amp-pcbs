@@ -1,10 +1,13 @@
 <img src="screenshot.png" width="50%">
 
-## Subwoofer
+## SPDIF transceiver 
 
-This PCB generates a subwoofer signal from the left and right channels. A jumper is available to pass the left and right channels directly, or to filter out the 
-bass being sent to the subwoofer as well.  The current crossover frequency is set to 80 Hz.
+This board provides decoding for up to 5 SPDIF/TOSLINK digital audio connections.  It allows has two I2S inputs (one for the microprocessor, and one from the analog ADC board) which can be routed to the output.
 
 ### Version History
 
 - 1.0: Initial Release
+
+### Speciality Compenents
+
+* DIX9211 216-kHz Digital Audio Interface Transceiver

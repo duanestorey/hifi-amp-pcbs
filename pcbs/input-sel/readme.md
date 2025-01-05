@@ -2,15 +2,14 @@
 
 ## Line-Input Selector
 
-This PCB allows switching of 4 analog stereo inputs and one 5.1 channel input into 5.1.  Channels that are missing
-can be created.  It is based on the AX2358 IC.
+This PCB allows switching of 6 analog stereo inputs using gold-plated small signal relays.
 
 ### Version History
 
 - 1.0: Initial Release
-- 1.2: Did an initial build.  Seems like there is digital noise on the output, likely from the I2C signals sharing the audio ground.  This design now has a digital and analog ground on the board - it'll use the digital ground for the AX2358 IC, but use the analog ground for the channel outputs.
 
 ### Speciality Components
 
-* AX2358 Channel switching IC
-* Nichicon Muse ES 25V 10uF
+* 6x KEMET EA2 12V relays
+* 2x TCMT4600 quad optocoupler
+* CD74AC238 3->8 digital decoder

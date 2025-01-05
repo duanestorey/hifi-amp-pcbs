@@ -1,4 +1,7 @@
-## Version 2.0
+## Hi-Fidelity Dual-monoblock Amplifier with DSP
+
+These are the PCBs represented a two-year passive effort to create, from scratch, an entire hi-fi amplifier with build-in DSP support for active crossovers and room 
+correction.
 
 ### Project Style Guide
 
@@ -16,7 +19,9 @@ There are several INA260 power meters.
 ### Temperature Sensors
 
 1) Microprocessor board, address GND/GND
-2) Digital/Analog PSU, address GND/3V
+2) Digital/Analog PSU, address GND/3V#
+3) Monoblocks 1, address 3V3/GND and 3V3/3V3
+4) DSP, address float/GND
 
 ### LED lights and resistors
 
@@ -34,19 +39,9 @@ The following voltages and LED colours should be used for consistency. In genera
 * -9.5V - Blue, set to ~2ma using 3.3K
 * +34V - Yellow, set to ~2ma using 16K
 * -34V - Blue, set to ~2ma using 16K
+* 12V - Red, set to ~2ma using 4.7K
 * Positive DC - Yellow, set to 2ma
 * Negative DC - Blue, set to 2ma
-
-### Design Goals
-- Switch amplifier to LM4766, 2 boards, 4 channels
-    - should have a microcontrolled mute
-- Design miniDSP using adau1701
-- Simply power supplies - take all three from the toroidal
-- Modify microprocessor to have more ADC for current monitoring, and more GPIOs using add-on
-- Possibly combine subwoofer board with miniDSP post-DAC filtering
-- Small signal relay for swithing between filtered from channels or not
-- New SPDIF board with more inputs
-- Separate DAC Board or make it a HAT
 
 #### Microprocessor
 
