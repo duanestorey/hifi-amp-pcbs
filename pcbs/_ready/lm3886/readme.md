@@ -2,17 +2,14 @@
 
 ## LM3886
 
-The heart of the amplifier is this microprocessor board based on the ESP32 WROOM 32 IC.
+This board is meant to be reversable (top-to-bottom), and contains the highly rated, high fidelity LM3886 audio amplifier IC. Two of these boards are used in each monoblock to amplifier the associated tweeter and woofer channels.
 
 ### Version History
 
 - 1.0: Initial Release
-- 1.1: Addressed issue with ESP32 programming transistors
-- 1.2: Added missing pull-down resistor for relay/softstart 
 
 ### Speciality Components
 
-* ESP32 WROOM 32
-* FT232RL USB to UART converter
-* TMP100 temperature sensor
+* LM3886 68W audio amplifier IC
+* 500nH air core Inductor
 
