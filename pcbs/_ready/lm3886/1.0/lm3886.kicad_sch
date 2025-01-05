@@ -5033,10 +5033,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "79ccf52a-043c-4212-b8d3-664cc7e2f472")
 		(property "Reference" "RSn1"
-			(at 151.13 100.838 90)
+			(at 151.384 108.712 90)
 			(effects
 				(font
 					(size 1.27 1.27)
