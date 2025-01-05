@@ -11,6 +11,7 @@ The amplifier has the following specifications:
 * Five line-level RCA analog inputs
 * One phono/vinyl RCA input with built-in amplifier and RIAA correction
 * Four 192kHz/24-bit digital SPDIF inputs and one TOSLINK optical
+* Multiple 192kHz/24-bit Burr-brown digital to analog converters
 * IR remote connection, and built-in web server for configuration and web-app access
 * Custom digital signal processor with active-crossovers and room correction ability based on biquad filters and parametric EQ
 * Over-the-air code updates and wifi diagnostic information 
