@@ -1,8 +1,8 @@
 <img src="screenshot.png" width="50%">
 
-## Analog Power Supply for Operation Amplifier
+## Low-Voltage Power Supply
 
-This board produces a +/- 6.5V supply to be used with the DAC filter and the phono RIAA/pre-amplifier PCBs
+This board produces several low-voltage power supplies for use in the amplifier: +/- 9.5V for analog operational amplifiers, 3.3V and 5V for digital logic, and 12V for relays.
 
 ### Version History
 
@@ -11,4 +11,6 @@ This board produces a +/- 6.5V supply to be used with the DAC filter and the pho
 ### Speciality Components
 
 * LM317 & LM337 variable voltage regulators
-* Myrra 44091 1.5VA with dual 6V secondaries
+* AP64351SP-13 switched voltage regulator
+* Various AMS1117 linear regulators (3.3V, 5V, 12V)
+* 4x INA260 current monitors

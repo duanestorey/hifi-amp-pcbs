@@ -2,17 +2,13 @@
 
 ## GPIO Extension 
 
-The heart of the amplifier is this microprocessor board based on the ESP32 WROOM 32 IC.
+This board provides additional GPIO pins for use within the amplifier. It provides the main control connections to the various boards.
 
 ### Version History
 
 - 1.0: Initial Release
-- 1.1: Addressed issue with ESP32 programming transistors
-- 1.2: Added missing pull-down resistor for relay/softstart 
 
 ### Speciality Components
 
-* ESP32 WROOM 32
-* FT232RL USB to UART converter
-* TMP100 temperature sensor
+* MCP23017 GPIO extender
 
