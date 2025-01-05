@@ -3503,7 +3503,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 86.36) (xy 309.88 88.9)
+			(xy 309.88 80.01) (xy 309.88 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7111,7 +7111,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 309.88 86.36 90)
+		(at 309.88 80.01 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7121,7 +7121,7 @@
 		)
 		(uuid "b938304e-2519-49ca-9bba-e175e511445d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 309.8006 80.4393 90)
+			(at 309.8006 74.0893 90)
 			(effects
 				(font
 					(size 1.27 1.27)
