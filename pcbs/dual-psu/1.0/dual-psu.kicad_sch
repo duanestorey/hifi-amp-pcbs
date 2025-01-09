@@ -12386,7 +12386,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "170K"
+		(property "Value" "180K"
 			(at 373.126 121.9199 0)
 			(effects
 				(font
@@ -12414,6 +12414,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 370.84 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RC0603JR-10180KL "
 			(at 370.84 120.65 0)
 			(effects
 				(font
@@ -16496,6 +16505,15 @@
 		)
 		(property "LCSC Part" "C3192339"
 			(at 337.82 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 621-AP64351SP-13 "
+			(at 337.82 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)

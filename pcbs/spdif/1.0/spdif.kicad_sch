@@ -8238,7 +8238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 217.17 231.14 0)
 			(effects
 				(font
@@ -8258,6 +8258,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 217.17 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 81-GRM3195C1H683JA5D "
+			(at 217.17 231.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9477,7 +9486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 185.42 0)
 			(effects
 				(font
@@ -9497,6 +9506,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 189.23 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 189.23 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9775,6 +9793,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 771-74HC7014D-T "
+			(at 360.68 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "f212dd94-da3a-49a0-9931-ffd2903985a8")
 		)
@@ -9872,6 +9899,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 207.01 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0603FRE07680RL "
+			(at 207.01 231.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10009,6 +10045,15 @@
 			)
 		)
 		(property "Description" "Hex non-inverting buffer with precision Schmitt Trigger inputs, SOIC-14"
+			(at 388.62 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 771-74HC7014D-T "
 			(at 388.62 105.41 0)
 			(effects
 				(font
@@ -10231,7 +10276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 198.12 180.34 0)
 			(effects
 				(font
@@ -10251,6 +10296,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 198.12 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RT0805FRE0722RL "
+			(at 198.12 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10318,6 +10372,15 @@
 			)
 		)
 		(property "Description" "Hex non-inverting buffer with precision Schmitt Trigger inputs, SOIC-14"
+			(at 360.68 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 771-74HC7014D-T "
 			(at 360.68 105.41 0)
 			(effects
 				(font
@@ -10692,6 +10755,15 @@
 			)
 		)
 		(property "Description" "Hex non-inverting buffer with precision Schmitt Trigger inputs, SOIC-14"
+			(at 481.33 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 771-74HC7014D-T "
 			(at 481.33 46.99 0)
 			(effects
 				(font
@@ -11728,6 +11800,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 771-74HC7014D-T "
+			(at 387.35 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "f212dd94-da3a-49a0-9931-ffd2903985ac")
 		)
@@ -12118,7 +12199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 177.8 0)
 			(effects
 				(font
@@ -12138,6 +12219,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 189.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RT0805FRE0722RL "
+			(at 189.23 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12337,7 +12427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 219.71 182.88 0)
 			(effects
 				(font
@@ -12357,6 +12447,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 219.71 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RT0805FRE0722RL "
+			(at 219.71 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12742,6 +12841,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 771-74HC7014D-T "
+			(at 514.35 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "f212dd94-da3a-49a0-9931-ffd2903985ad")
 		)
@@ -12984,6 +13092,15 @@
 			)
 		)
 		(property "Description" "Hex non-inverting buffer with precision Schmitt Trigger inputs, SOIC-14"
+			(at 480.06 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 771-74HC7014D-T "
 			(at 480.06 29.21 0)
 			(effects
 				(font
@@ -13333,6 +13450,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 210.82 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 791-0603N472F500CT "
+			(at 210.82 240.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)

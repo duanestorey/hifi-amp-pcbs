@@ -4039,7 +4039,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "750R"
+		(property "Value" "1.4k"
 			(at 92.71 173.9899 0)
 			(effects
 				(font
@@ -5386,7 +5386,7 @@
 				)
 			)
 		)
-		(property "Value" "22U 50V"
+		(property "Value" "47U 50V"
 			(at 99.7839 80.01 90)
 			(effects
 				(font
@@ -6277,7 +6277,7 @@
 				)
 			)
 		)
-		(property "Value" "22U 50V"
+		(property "Value" "47U 50V"
 			(at 100.8761 129.54 90)
 			(effects
 				(font

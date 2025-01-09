@@ -4608,6 +4608,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 579-MCP23017-E/SS "
+			(at 254 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae2f1ab0-2fe0-4f73-bb29-17116cda47d7")
 		)

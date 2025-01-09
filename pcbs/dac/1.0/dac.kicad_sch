@@ -7464,89 +7464,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:DA101C_C6931652")
-		(at 220.98 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "113a1090-d104-4ed7-9ffa-6ea335444891")
-		(property "Reference" "U4"
-			(at 220.9846 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DA101C_C6931652"
-			(at 220.9846 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:XFMR-TH_4P-L9.5-W9.0-P5.08-LS10.2_C9900096976"
-			(at 220.98 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C6931652"
-			(at 220.98 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "8695681c-7a6b-4c14-9809-d8ff10754ad3")
-		)
-		(pin "1"
-			(uuid "3a1acf45-25fb-46ec-bc57-e1888af880cb")
-		)
-		(pin "4"
-			(uuid "2e97b76d-88e6-49e6-9079-d20ba4c19d59")
-		)
-		(pin "3"
-			(uuid "a8ea43d0-601d-47b9-af0a-6fdebae32c87")
-		)
-		(instances
-			(project ""
-				(path "/ad933f83-dd94-4dcc-b4f2-96fd54138c43"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 199.39 199.39 0)
 		(unit 1)
@@ -8451,7 +8368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-PCM5142PWR"
+		(property "Mouser" " 595-PCM5122PWR "
 			(at 72.39 180.34 0)
 			(effects
 				(font
@@ -8752,6 +8669,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 100.33 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-CC1206JKX78BB225 "
+			(at 100.33 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9450,7 +9376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-PCM5142PWR"
+		(property "Mouser" " 595-PCM5122PWR "
 			(at 160.02 179.07 0)
 			(effects
 				(font
@@ -9745,6 +9671,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-CC1206JKX78BB225 "
 			(at 257.81 207.01 0)
 			(effects
 				(font
@@ -10102,6 +10037,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-CC1206JKX78BB225 "
+			(at 187.96 186.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2c3e1620-6e91-408f-b627-96f33b74b1a2")
 		)
@@ -10323,6 +10267,89 @@
 			(project "ChannelSelector"
 				(path "/ad933f83-dd94-4dcc-b4f2-96fd54138c43"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:DA101C_C6931652")
+		(at 220.98 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a764f85b-bcde-4ef1-b316-175e94323c8a")
+		(property "Reference" "U6"
+			(at 220.9846 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DA101C_C6931652"
+			(at 220.9846 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:XFMR-TH_4P-L9.5-W9.0-P5.08-LS10.2_C9900096976"
+			(at 220.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 220.98 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C6931652"
+			(at 220.98 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "9ce6c187-54b0-4f9a-b4ac-372f7b34b40a")
+		)
+		(pin "6"
+			(uuid "9f4a2352-173f-4ec5-a8f2-2293013c1cf4")
+		)
+		(pin "3"
+			(uuid "0284f621-c1d7-4ab8-aadf-43b3fc2051ee")
+		)
+		(pin "1"
+			(uuid "4892b1c0-8e6c-4a2f-9da1-2cecd8d6312b")
+		)
+		(instances
+			(project ""
+				(path "/ad933f83-dd94-4dcc-b4f2-96fd54138c43"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -10731,6 +10758,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-CC1206JKX78BB225 "
+			(at 90.17 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b561daed-18e1-40d5-954c-99ec3e327426")
 		)
@@ -10865,6 +10901,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-CC1206JKX78BB225 "
+			(at 264.16 187.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7341559d-0aa3-422f-bc71-15fafb3437a0")
 		)
@@ -10935,7 +10980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-PCM5142PWR"
+		(property "Mouser" " 595-PCM5122PWR "
 			(at 237.49 180.34 0)
 			(effects
 				(font
@@ -11401,7 +11446,7 @@
 				)
 			)
 		)
-		(property "Value" "AMS1117-3.3"
+		(property "Value" "ZLDO1117QG33TA"
 			(at 76.2 68.58 0)
 			(effects
 				(font
@@ -11986,6 +12031,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 180.34 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-CC1206JKX78BB225 "
 			(at 180.34 208.28 0)
 			(effects
 				(font

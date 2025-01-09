@@ -4126,6 +4126,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE072K7L "
+			(at 203.835 97.663 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1bea1fa-7330-4bfe-90f6-b3dda040c774")
 		)
@@ -4258,6 +4267,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 140.97 82.677 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE0747KL "
 			(at 140.97 82.677 0)
 			(effects
 				(font
@@ -4461,6 +4479,15 @@
 		)
 		(property "Description" ""
 			(at 41.021 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE072K2L "
+			(at 41.021 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4675,6 +4702,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE0747KL "
+			(at 36.322 83.947 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "690b54c7-0883-477f-bfe5-e41771cf7266")
 		)
@@ -4815,6 +4851,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE074K7L "
+			(at 44.45 92.583 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5655e73-610e-419b-be98-cead9f0fe214")
 		)
@@ -4877,6 +4922,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 106.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE1310KL "
 			(at 106.68 74.93 0)
 			(effects
 				(font
@@ -4955,6 +5009,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE07180KL "
+			(at 203.073 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdbf15d3-4ba7-4766-9254-3453849bf143")
 		)
@@ -5015,6 +5078,15 @@
 		)
 		(property "Description" ""
 			(at 94.869 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE10100KL "
+			(at 94.869 95.758 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5303,6 +5375,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 81-GRM3195C1H104GA5D "
+			(at 170.307 97.028 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bebbb0ac-3ae6-496e-a615-675c10fd5d3f")
 		)
@@ -5364,6 +5445,15 @@
 		)
 		(property "Description" ""
 			(at 145.669 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE072K2L "
+			(at 145.669 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5871,6 +5961,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE072K7L "
+			(at 99.187 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63f28587-113d-4942-801a-a628505b64e9")
 		)
@@ -6138,6 +6237,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE10100KL "
+			(at 161.29 97.028 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fb11caa-5222-4e81-ab21-d31b7ed7d8a8")
 		)
@@ -6241,7 +6349,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA2134"
+		(property "Value" "OPA1656"
 			(at 189.23 64.516 0)
 			(effects
 				(font
@@ -6268,6 +6376,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 189.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "595-OPA1656IDR"
 			(at 189.23 90.17 0)
 			(effects
 				(font
@@ -6355,6 +6472,15 @@
 		)
 		(property "Description" ""
 			(at 69.088 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE07750RL "
+			(at 69.088 95.758 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6494,6 +6620,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 149.098 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE074K7L "
 			(at 149.098 91.313 0)
 			(effects
 				(font
@@ -6917,6 +7052,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE07180KL "
+			(at 99.06 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14d77732-832d-4f10-9c55-a0ff7b68b5b6")
 		)
@@ -7047,6 +7191,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 56.642 98.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE10100KL "
 			(at 56.642 98.298 0)
 			(effects
 				(font
@@ -7545,6 +7698,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 603-RT0805FRE1310KL "
+			(at 209.296 74.041 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b403ac7-d615-491c-84fc-0b9727585e9e")
 		)
@@ -7615,6 +7777,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" " 81-GRM3195C1H104GA5D "
+			(at 65.659 98.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21995b13-1ef9-4c20-8371-d82beb9c8618")
 		)
@@ -7676,6 +7847,15 @@
 		)
 		(property "Description" ""
 			(at 173.736 94.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE07750RL "
+			(at 173.736 94.488 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7813,6 +7993,15 @@
 		)
 		(property "Description" ""
 			(at 199.517 94.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" " 603-RT0805FRE10100KL "
+			(at 199.517 94.488 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8126,7 +8315,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA2134"
+		(property "Value" "OPA1656"
 			(at 84.582 65.786 0)
 			(effects
 				(font
@@ -8153,6 +8342,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 84.582 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "595-OPA1656IDR"
 			(at 84.582 91.44 0)
 			(effects
 				(font
