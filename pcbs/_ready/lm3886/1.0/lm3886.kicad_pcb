@@ -248,7 +248,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/59d7c6b7-f578-47b6-b8e9-11d872accee3")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -409,7 +409,7 @@
 				)
 			)
 		)
-		(property "Value" "750R"
+		(property "Value" "1.4k"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(uuid "678a0ba7-059e-4baa-90e7-075fb2dfd3bf")
@@ -472,7 +472,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/38fd4ce8-8ef6-43b6-a650-247d6e7daf02")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -687,7 +687,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4667ca27-e76d-42e1-8ced-38e2c90fb17d")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.06 4.91)
@@ -1047,7 +1047,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b3b48723-038d-42aa-bd73-e03367602930")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.06 2.91)
@@ -1463,7 +1463,7 @@
 				)
 			)
 		)
-		(property "Value" "22U 50V"
+		(property "Value" "47U 50V"
 			(at 1.25 4.4 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1514,7 +1514,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/db411701-a1cc-4146-848d-a5f40e445d30")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.250241 -1.839)
@@ -3044,7 +3044,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/14cb3a28-a126-4fa8-95b4-84fb622ded52")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -3258,7 +3258,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0b5df3f8-8164-4663-8fa9-1d0338cc3d74")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -3419,7 +3419,7 @@
 				)
 			)
 		)
-		(property "Value" "22U 50V"
+		(property "Value" "47U 50V"
 			(at 1.25 4.4 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3470,7 +3470,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/87f26e5e-0587-4556-b4d9-de01181b3b24")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.250241 -1.839)
@@ -4998,7 +4998,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/1cb93e9c-e954-4446-809e-c46cb4825004")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.317082 -3.575)
@@ -7507,7 +7507,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/14211922-300f-43ff-b369-d1f3a3d07358")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.8 0)
@@ -7614,7 +7614,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/bdbb774b-fee6-4bbb-9560-513f1d132349")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -7841,7 +7841,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2c2ff3c1-6a4e-44d4-9da6-7d6e589de470")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -8054,7 +8054,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/30fa3e9c-a608-491b-ac8f-17c9e872eb5f")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.06 2.91)
@@ -8523,7 +8523,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0b34203e-46dd-4dff-aa49-b6f6ef436026")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.06 4.91)
@@ -8907,7 +8907,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1fc94940-07fa-475c-8caa-bf73bedd2035")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.177064 1.71)
@@ -9120,7 +9120,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7d6ca822-8d0f-46b1-a3e3-e842420a2e46")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 1.27)
@@ -9402,7 +9402,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/1093be96-d432-4fe1-9f26-82e6cabe5c18")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -9626,7 +9626,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bf62d936-4923-40e3-8d14-5ccffc8b67bd")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -9840,7 +9840,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/6d6a5d3d-171c-4f15-81f6-afe2401e139a")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.8 0)
@@ -9947,7 +9947,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3ae9ec10-9bcb-4a11-8031-c779de248b72")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -10159,7 +10159,7 @@
 		(property ki_fp_filters "TO?220*StaggerOdd*")
 		(path "/b01a72d4-df75-42de-94b0-5dc3fef1af67")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 18.72 -9.7)
@@ -10726,7 +10726,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/52833128-b134-4e1f-bfd1-264ae26287b2")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 1.25 0)
@@ -10874,7 +10874,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d45dd0a3-9d70-4550-a777-34028411df43")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -11165,7 +11165,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9a4c2dcb-23b6-4427-b713-86c09c003ab1")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 16.62 -3.62)
@@ -11402,7 +11402,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/603a19ad-25c8-4778-bd66-e256072dbec1")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -11616,7 +11616,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/7ffe8f21-2ad2-4061-9f55-c668595cea3b")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.8 0)
@@ -11720,7 +11720,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/79ccf52a-043c-4212-b8d3-664cc7e2f472")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.886252 2.66)
@@ -11935,7 +11935,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3b5c7d51-e20d-405c-9d56-dc5d46079d27")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.06 2.91)
@@ -12405,7 +12405,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/52e51cd7-95ec-453a-a042-6cc637b08a02")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.06 2.91)
@@ -12873,7 +12873,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/806c4e37-12d3-43b9-9249-d717ca61dd7f")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.06 4.91)
@@ -13233,7 +13233,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/bb65938f-efe2-4e5f-8ded-a927c929545d")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.66 0.735)
@@ -13479,7 +13479,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/75d0443b-40b4-48e6-9a47-3fd24692744c")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -13691,7 +13691,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/bb2e9b72-5b80-4953-9786-1d968f9d9bfc")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -3.23)
@@ -15231,7 +15231,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/76d08118-fd4b-438c-a4cd-6a9b88e79ef7")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -15443,7 +15443,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/fdc886c0-31da-4fe9-add1-d3334adcebd6")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.58 -6.33)
@@ -17953,7 +17953,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/55a41e46-3a19-40c5-9bb8-f97676aa932d")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.8 0)
@@ -18057,7 +18057,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5c885087-de24-4be0-a894-064945bd2ae1")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -18281,7 +18281,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a5202148-8bf8-4115-9600-70efa658f928")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -18494,7 +18494,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/85a859a8-f264-484d-8d96-0466b22b60de")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 1.27)
@@ -18759,7 +18759,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/e51022cc-8af4-438e-a5f9-394d13ac4c9f")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -18887,7 +18887,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/73567fb9-af71-4feb-be7a-74a243650c77")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -19121,7 +19121,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/dae4767f-551b-44f7-9617-ad2905b23a55")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.58 -6.33)
@@ -21632,7 +21632,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c9153d1f-5006-4384-b739-907d3ef9802d")
 		(sheetname "Root")
-		(sheetfile "LM3886.kicad_sch")
+		(sheetfile "lm3886.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.06 4.91)
@@ -21930,6 +21930,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 77.2 43.65)
+		(end 82.2 48.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "3e1c7520-cfd4-48fc-835e-2c5c56f42aa0")
 	)
 	(gr_line
 		(start 76.3 132.45)

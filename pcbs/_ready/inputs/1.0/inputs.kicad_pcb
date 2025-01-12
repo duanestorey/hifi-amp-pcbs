@@ -147,13 +147,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J6"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fc849b59-4b2a-4c07-8ade-922de0cffcb1")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -667,13 +668,14 @@
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H1"
 			(at 0 -3.8 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3cdd873f-49a5-4886-88ca-50e8c13cd896")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -788,13 +790,14 @@
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H3"
 			(at 0 -3.8 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5d101a48-87dd-4a22-832d-93d9b5fe7986")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -909,13 +912,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J4"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "28813fcd-9b15-4ce3-8b0e-0b9e479c91ea")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1429,13 +1433,14 @@
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H2"
 			(at 0 -3.8 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "899167b5-a963-440b-885f-6a49e9886bee")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1550,13 +1555,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J3"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "7af7b0df-9d14-4cfc-ba5d-f2f7bfb7eab2")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2070,13 +2076,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J12"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "eeac6cbe-72f6-4e2b-a1e2-83f360587248")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2590,12 +2597,13 @@
 		(tags "capacitor")
 		(property "Reference" "C5"
 			(at 0 -1.85 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "97630ae2-00b7-4235-ba1c-1e72b26c4279")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2816,13 +2824,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J2"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1e10d485-64fa-42b8-be92-da5fafb6eb99")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3336,12 +3345,13 @@
 		(tags "capacitor")
 		(property "Reference" "C2"
 			(at 0 -1.85 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "9312b8bd-94d9-4507-b7e1-733fa5f59318")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3562,13 +3572,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J10"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d11a181c-a8df-4b4f-ada4-43a0944a108b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4082,12 +4093,13 @@
 		(tags "capacitor")
 		(property "Reference" "C4"
 			(at 0 -1.85 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "7a0a84b9-96bc-4a61-b064-ac31caf8943b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4308,13 +4320,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J5"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "421b9012-2b0d-48a4-b5a1-92d688291d25")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4828,12 +4841,13 @@
 		(tags "capacitor")
 		(property "Reference" "C3"
 			(at 0 -1.85 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b72efe28-06ae-47af-9707-30cecd601432")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5054,12 +5068,13 @@
 		(tags "capacitor")
 		(property "Reference" "C1"
 			(at 0 -1.85 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "f06b0f15-d010-4222-93ba-0207d9d15094")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5280,13 +5295,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J11"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "84adaa4a-83c0-4dd1-8cd0-4133b8d67632")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5800,13 +5816,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J9"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "59044bef-7109-46d7-b9a3-aebc6e444888")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6320,13 +6337,14 @@
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H4"
 			(at 0 -3.8 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9a3fe355-9710-468d-b909-3028a8ce0bba")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6441,13 +6459,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J8"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1a6d11f3-968d-458a-8d8f-b8d520cffe2c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6961,13 +6980,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J1"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fe3767b0-2cc0-4a02-bcf3-6108aaeadacc")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -7481,13 +7501,14 @@
 		(tags "connector JST PH side entry")
 		(property "Reference" "J7"
 			(at 2 -2.9 0)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "ff130a4b-0408-4f06-8e90-72753b70c5aa")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8001,13 +8022,14 @@
 		(tags "connector JST VH vertical")
 		(property "Reference" "J13"
 			(at 1.98 -4.9 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "04feca06-192e-45fc-a6c1-8f5f6e8cef14")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8360,12 +8382,13 @@
 		(tags "capacitor")
 		(property "Reference" "C6"
 			(at 0 -1.85 90)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "57c7351d-0083-4f1c-81d8-f799ea9e78e2")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -8577,6 +8600,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 158.9 64.1)
+		(end 163.9 69.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "a419af88-4aef-4d80-a3a6-a6ffcb352c2f")
 	)
 	(gr_line
 		(start 170.9 63.5)
